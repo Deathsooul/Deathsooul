@@ -7,7 +7,7 @@ I am **Wallace Bescrovaine**
 
 :space_invader:  Computer Engineering
 
-:desktop_computer:  I’m currently working as full-stack developer
+:desktop_computer:  I’m currently working as full-stack Engineer
 
 :keyboard::computer_mouse:Games
 
