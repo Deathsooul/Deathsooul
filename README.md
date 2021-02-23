@@ -40,4 +40,6 @@ I am **Wallace Bescrovaine**
 
 #
 
-![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs)
+![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=synthwave&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true)
+
+<!-- [![Deathsooul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@deathsooul&layout=compact)](https://github.com/deathsooul) -->
