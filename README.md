@@ -13,6 +13,19 @@ I am **Wallace Bescrovaine**
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#
+
+![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=synthwave&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true)
+![Deathsooul's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathsooul&layout=compact&langs_count=16&theme=dracula)
+
+<br/>
+
+#
 
 
 
@@ -38,8 +51,6 @@ I am **Wallace Bescrovaine**
 </br>
 </br>
 
-#
 
-![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=synthwave&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true)
 
 <!-- [![Deathsooul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@deathsooul&layout=compact)](https://github.com/deathsooul) -->
