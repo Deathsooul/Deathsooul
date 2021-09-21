@@ -47,26 +47,16 @@ class Hobby extends Developer {
 <img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
-
 <br /><br />
 
 ---
 
 ## 🌱 We are Groot
 
-<table border="0">
-  <tr>
-   <td border="0" align="center">
-    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<br /><br /><br /><br />
+
   [![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
   [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
   [![Twitter Wallace](https://img.shields.io/twitter/follow/Deathsooul?style=social)](https://twitter.com/Deathsooul)
-      
-  </td>
-    <td border="0" align="right">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-    </td>
-   
-  </tr>
-</table>
 
