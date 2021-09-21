@@ -53,7 +53,7 @@ class Hobby extends Developer {
 
 ## 🌱 We are Groot
 
-<table>
+<table border="0">
   <tr>
    <td align="center">
     
