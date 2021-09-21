@@ -13,7 +13,8 @@ class AboutMe extends Developer {
 }
 
 class Hobby extends Developer {
-  hobbys  = ['Travel','Games','Cars','sk8'];
+  hobbys  = ['Travel','Games',
+              'Cars','sk8'];
 }
 
 ```
