@@ -1,9 +1,8 @@
 # 🚀 Hey!? How you doing 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l2QZVlVEkffSNdB5e/giphy.gif"/>
 
-<br/>
-
 ```js
+
 import Developer from 'Deathsooul';
 
 class AboutMe extends Developer {
