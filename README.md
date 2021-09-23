@@ -27,7 +27,7 @@ class Hobby extends Developer {
 <br />
 
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathsooul&hide_border=true&layout=compact&langs_count=16&theme=radical)
-![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&count_ptivate=true)
+![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 
 <p align="left">
 <img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
