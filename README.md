@@ -1,4 +1,5 @@
 # 🚀 Hey!? How you doing 
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l2QZVlVEkffSNdB5e/giphy.gif"/>
 
 ```js
@@ -7,15 +8,19 @@ import Developer from 'Deathsooul';
 
 class AboutMe extends Developer {
   name  = 'Wallace Bescrovaine';
+  level = 24;
   area  = 'Computer Engineer';
   work  = 'Alexandria';  
+}
+
+class Skills extends Developer{
+  skills = ['code', 'create', 'innovate'];
 }
 
 class Hobby extends Developer {
   hobbys  = ['Travel','Games',
               'Cars','sk8'];
 }
-
 ```
 <br /><br />
 
