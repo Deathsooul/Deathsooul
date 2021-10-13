@@ -55,13 +55,15 @@ class Hobby extends Developer {
 
 ---
 
-## 🌱 We are Groot
+## 🌱 Profile Views
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <br /><br /><br /><br />
 <br /><br />
+ <p align="left"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/deathsooul/count.svg" />
+ </p>
 
   [![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
   [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
   [![Twitter Wallace](https://img.shields.io/twitter/follow/Deathsooul?style=social)](https://twitter.com/Deathsooul)
-
