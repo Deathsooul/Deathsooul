@@ -86,10 +86,7 @@ class Hobby extends Developer {
    <img alingn="center" src="https://profile-counter.glitch.me/deathsooul/count.svg" />
  </p>
 
-<br /><br />
- <p align="left"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/deathsooul/count.svg" />
- </p>
+<br /><br /> 
 
   [![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
   [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
