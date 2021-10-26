@@ -34,39 +34,47 @@ class Hobby extends Developer {
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 
 ## Languages
-<img  width="38" height="38" alingn="left"   src="./public/images/javascript.png" alt="Javascript"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/typescript.png" alt="Typescript"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/nodejs.png" alt="Nodejs"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/react.png" alt="React"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/python.png" alt="Python"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/flask.png" alt="Flask"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/django.png" alt="Django"/>
-<img  width="38" height="38" alingn="left"   src="./public/images/c.png" alt="C" />
-<img  width="38" height="38" alingn="left"   src="./public/images/c++.png" alt="C++" />
-<img  width="38" height="38" alingn="left"   src="./public/images/csharp.png" alt="C#" />
+<p>
+  <img  width="38" height="38" alingn="left" src="./public/images/javascript.png" alt="Javascript"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/typescript.png" alt="Typescript"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/nodejs.png" alt="Nodejs"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/react.png" alt="React"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/flask.png" alt="Flask"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/django.png" alt="Django"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/c.png" alt="C" />
+  <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
+  <img  width="38" height="38" alingn="left" src="./public/images/csharp.png" alt="C#" />
+</p>
 
 ## Databases
-<img  width="38" height="38" alingn="left"   src="./public/images/mongodb.png" alt="Mongo" />
-<img  width="38" height="38" alingn="left"   src="./public/images/sqlite.png" alt="SQL" />
-<img  width="38" height="38" alingn="left"   src="./public/images/mysql.png" alt="MySQL" />
+<p>
+  <img  width="38" height="38" alingn="left" src="./public/images/mongodb.png" alt="Mongo" />
+  <img  width="38" height="38" alingn="left" src="./public/images/sqlite.png" alt="SQL" />
+  <img  width="38" height="38" alingn="left" src="./public/images/mysql.png" alt="MySQL" />
+</p>
 
 ## Dev Tools
-<img  width="38" height="38" alingn="left"   src="./public/images/docker.png" alt="Docker" />
-<img  width="38" height="38" alingn="left"   src="./public/images/vscode.png" alt="VS Code" />
-<img  width="38" height="38" alingn="left"   src="./public/images/figma.svg" alt="Figma" />
-<img  width="38" height="38" alingn="left"   src="./public/images/postman.png" alt="Postman" />
-<img  width="38" height="38" alingn="left"   src="./public/images/git.png" alt="Git" />
-<img  width="38" height="38" alingn="left"   src="./public/images/github.png" alt="GitHub" />
-<img  width="38" height="38" alingn="left"   src="./public/images/notion.svg" alt="Notion" />
-<img  width="38" height="20" alingn="left"   src="./public/images/AWS.png" alt="AWS" />
+<p>  
+  <img  width="38" height="38" alingn="left" src="./public/images/docker.png" alt="Docker" />
+  <img  width="38" height="38" alingn="left" src="./public/images/vscode.png" alt="VS Code" />
+  <img  width="38" height="38" alingn="left" src="./public/images/figma.svg" alt="Figma" />
+  <img  width="38" height="38" alingn="left" src="./public/images/postman.png" alt="Postman" />
+  <img  width="38" height="38" alingn="left" src="./public/images/git.png" alt="Git" />
+  <img  width="38" height="38" alingn="left" src="./public/images/github.png" alt="GitHub" />
+  <img  width="38" height="38" alingn="left" src="./public/images/notion.svg" alt="Notion" />
+  <img  width="38" height="20" alingn="left" src="./public/images/AWS.png" alt="AWS" />
+</p>
 
 ## IoT
-<img  width="38" height="38" alingn="left" src="./public/images/arduino.png" alt="Arduino" />
-<img  width="38" height="38" alingn="left" src="./public/images/raspberry.png" alt="Raspberty" />
-<img  width="38" height="38" alingn="left" src="./public/images/esp.png" alt="ESP" />
-<img  width="38" height="38" alingn="left" src="./public/images/tiva.png" alt="Tiva" />
-<img  width="38" height="38" alingn="left" src="./public/images/easyeda.png" alt="EasyEDA" />
-<img  width="38" height="36" alingn="left" src="./public/images/proteus.png" alt="Proteus" />
+<p>
+  <img  width="38" height="38" alingn="left" src="./public/images/arduino.png" alt="Arduino" />
+  <img  width="38" height="38" alingn="left" src="./public/images/raspberry.png" alt="Raspberty" />
+  <img  width="38" height="38" alingn="left" src="./public/images/esp.png" alt="ESP" />
+  <img  width="38" height="38" alingn="left" src="./public/images/tiva.png" alt="Tiva" />
+  <img  width="38" height="38" alingn="left" src="./public/images/easyeda.png" alt="EasyEDA" />
+  <img  width="38" height="36" alingn="left" src="./public/images/proteus.png" alt="Proteus" />
+</p>
 
 <br /><br />
 
