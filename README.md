@@ -27,28 +27,50 @@ class Hobby extends Developer {
 ---
 
 
-## 💻 Languages and Tools
+# 💻 Skill
 <br />
 
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathsooul&hide_border=true&layout=compact&langs_count=16&theme=radical)
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 
 <p align="left">
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/>
-<img  width="38" height="38"   src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" />
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry"/>
-<img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
-<img  width="38" height="38"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"/>
-<img width="38" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+## Languages
+<img  width="38" height="38"   src="./public/images/javascript.png" alt="Javascript"/>
+<img  width="38" height="38"   src="./public/images/typescript.png" alt="Typescript"/>
+<img  width="38" height="38"   src="./public/images/nodejs.png" alt="Nodejs"/>
+<img  width="38" height="38"   src="./public/images/react.png" alt="React"/>
+<img  width="38" height="38"   src="./public/images/python.png" alt="Python"/>
+<img  width="38" height="38"   src="./public/images/flask.png" alt="Flask"/>
+<img  width="38" height="38"   src="./public/images/django.png" alt="Django"/>
+<img  width="38" height="38"   src="./public/images/c.png" alt="C" />
+<img  width="38" height="38"   src="./public/images/c++.png" alt="C++" />
+<img  width="38" height="38"   src="./public/images/csharp.png" alt="C#" />
+
+## Databases
+<img  width="38" height="38"   src="./public/images/mongodb.png" alt="Mongo" />
+<img  width="38" height="38"   src="./public/images/sqlite.png" alt="SQL" />
+<img  width="38" height="38"   src="./public/images/mysql.png" alt="MySQL" />
+
+## Dev Tools
+<img  width="38" height="38"   src="./public/images/docker.png" alt="Docker" />
+<img  width="38" height="38"   src="./public/images/vscode.png" alt="VS Code" />
+<img  width="38" height="38"   src="./public/images/figma.svg" alt="Figma" />
+<img  width="38" height="38"   src="./public/images/postman.png" alt="Postman" />
+<img  width="38" height="38"   src="./public/images/git.png" alt="Git" />
+<img  width="38" height="38"   src="./public/images/github.png" alt="GitHub" />
+<img  width="38" height="38"   src="./public/images/notion.svg" alt="Notion" />
+<img  width="38" height="20"   src="./public/images/AWS.png" alt="AWS" />
+
+## IoT
+<img  width="38" height="38"   src="./public/images/arduino.png" alt="Arduino" />
+<img  width="38" height="38"   src="./public/images/raspberry.png" alt="Raspberty" />
+<img  width="38" height="38"   src="./public/images/esp.png" alt="ESP" />
+<img  width="38" height="38"   src="./public/images/tiva.png" alt="Tiva" />
+<img  width="38" height="38"   src="./public/images/easyeda.png" alt="EasyEDA" />
+<img  width="38" height="36"   src="./public/images/proteus.png" alt="Proteus" />
+
+
 </p>
 
 <br /><br />
@@ -58,11 +80,13 @@ class Hobby extends Developer {
 ## 🌱 Profile Views
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 <br /><br /><br /><br />
-<br /><br />
  <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/deathsooul/count.svg" />
  </p>
+
+<br /><br /> 
 
   [![Linkedin: Wallace](https://img.shields.io/badge/-Wallace-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wallacebescrovaine/)
   [![GitHub Wallace]( https://img.shields.io/github/followers/deathsooul?label=follow&style=social)](https://github.com/Deathsooul)
