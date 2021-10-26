@@ -33,8 +33,6 @@ class Hobby extends Developer {
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathsooul&hide_border=true&layout=compact&langs_count=16&theme=radical)
 ![Deathsooul's stats](https://github-readme-stats.vercel.app/api?username=deathsooul&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 
-<p align="left">
-
 ## Languages
 <img  width="38" height="38"   src="./public/images/javascript.png" alt="Javascript"/>
 <img  width="38" height="38"   src="./public/images/typescript.png" alt="Typescript"/>
@@ -69,9 +67,6 @@ class Hobby extends Developer {
 <img  width="38" height="38"   src="./public/images/tiva.png" alt="Tiva" />
 <img  width="38" height="38"   src="./public/images/easyeda.png" alt="EasyEDA" />
 <img  width="38" height="36"   src="./public/images/proteus.png" alt="Proteus" />
-
-
-</p>
 
 <br /><br />
 
