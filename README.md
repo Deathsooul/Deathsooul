@@ -9,8 +9,7 @@ import Developer from 'Deathsooul';
 class AboutMe extends Developer {
   name  = 'Wallace Bescrovaine';
   level = 24;
-  area  = 'Computer Engineer';
-  work  = 'Alexandria';  
+  area  = 'Computer Engineer';    
 }
 
 class Skills extends Developer{
